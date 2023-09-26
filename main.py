@@ -3,6 +3,7 @@
 #tp 1
 
 
+#debut du programme
 
 def count_words(phrase):
    nombre_mot = len(phrase .split())
